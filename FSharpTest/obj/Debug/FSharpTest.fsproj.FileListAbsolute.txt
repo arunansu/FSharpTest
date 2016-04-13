@@ -1,0 +1,8 @@
+C:\PAT\Dev\VisualStudio\FSharpTest\FSharpTest\bin\Debug\FSharpTest.exe.config
+C:\PAT\Dev\VisualStudio\FSharpTest\FSharpTest\bin\Debug\FSharpTest.XML
+C:\PAT\Dev\VisualStudio\FSharpTest\FSharpTest\bin\Debug\FSharpTest.exe
+C:\PAT\Dev\VisualStudio\FSharpTest\FSharpTest\bin\Debug\FSharpTest.pdb
+C:\PAT\Dev\VisualStudio\FSharpTest\FSharpTest\bin\Debug\FSharp.Core.dll
+C:\PAT\Dev\VisualStudio\FSharpTest\FSharpTest\bin\Debug\FSharp.Core.xml
+C:\PAT\Dev\VisualStudio\FSharpTest\FSharpTest\obj\Debug\FSharpTest.exe
+C:\PAT\Dev\VisualStudio\FSharpTest\FSharpTest\obj\Debug\FSharpTest.pdb
